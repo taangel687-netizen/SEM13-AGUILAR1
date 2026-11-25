@@ -1,0 +1,5 @@
+Django>=5.2.8,<5.3
+djangorestframework>=3.16.1,<4
+django-cors-headers>=4.9,<5
+django-filter>=25.2,<26
+drf-spectacular[sidecar]>=0.29,<1
